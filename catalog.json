@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "email": "24f2002568@ds.study.iitm.ac.in",
+    "version": "f6009b68"
+  },
+  "products": [
+    { "id": 1, "name": "Sofa Set", "category": "home", "price": 24999.18, "stock": 2, "rating": 4.5 },
+    { "id": 2, "name": "Dining Table", "category": "home", "price": 30999.30, "stock": 1, "rating": 4.2 },
+    { "id": 3, "name": "Office Chair", "category": "home", "price": 7999.50, "stock": 5, "rating": 4.0 },
+    { "id": 4, "name": "Bookshelf", "category": "home", "price": 12499.80, "stock": 3, "rating": 4.1 },
+    { "id": 5, "name": "Bed Frame", "category": "home", "price": 21999.70, "stock": 2, "rating": 4.4 },
+
+    { "id": 6, "name": "Laptop", "category": "electronics", "price": 65999.99, "stock": 10, "rating": 4.6 },
+    { "id": 7, "name": "Smartphone", "category": "electronics", "price": 34999.49, "stock": 15, "rating": 4.5 },
+    { "id": 8, "name": "Headphones", "category": "electronics", "price": 2999.99, "stock": 30, "rating": 4.3 },
+    { "id": 9, "name": "Smartwatch", "category": "electronics", "price": 8999.00, "stock": 12, "rating": 4.2 },
+    { "id": 10, "name": "Tablet", "category": "electronics", "price": 19999.95, "stock": 8, "rating": 4.4 },
+
+    { "id": 11, "name": "Running Shoes", "category": "fashion", "price": 4999.99, "stock": 25, "rating": 4.1 },
+    { "id": 12, "name": "Jeans", "category": "fashion", "price": 1999.99, "stock": 40, "rating": 4.0 },
+    { "id": 13, "name": "Jacket", "category": "fashion", "price": 3499.49, "stock": 20, "rating": 4.3 },
+    { "id": 14, "name": "T-Shirt", "category": "fashion", "price": 999.99, "stock": 60, "rating": 4.2 },
+    { "id": 15, "name": "Sneakers", "category": "fashion", "price": 5999.99, "stock": 18, "rating": 4.4 },
+
+    { "id": 16, "name": "Protein Powder", "category": "health", "price": 2499.99, "stock": 35, "rating": 4.5 },
+    { "id": 17, "name": "Yoga Mat", "category": "health", "price": 799.99, "stock": 50, "rating": 4.1 },
+    { "id": 18, "name": "Dumbbells", "category": "health", "price": 2999.99, "stock": 20, "rating": 4.3 },
+    { "id": 19, "name": "Treadmill", "category": "health", "price": 45999.00, "stock": 4, "rating": 4.6 },
+    { "id": 20, "name": "Exercise Bike", "category": "health", "price": 18999.99, "stock": 6, "rating": 4.4 },
+
+    { "id": 21, "name": "Water Bottle", "category": "accessories", "price": 499.99, "stock": 100, "rating": 4.0 }
+  ],
+  "aggregations": {
+    "home": {
+      "count": 5,
+      "inventoryValue": 140590.08
+    }
+  }
+}
